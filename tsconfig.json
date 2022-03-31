@@ -5,6 +5,7 @@
     "esModuleInterop": true,
     "target": "ES6",
     "lib": ["ES6", "dom"],
-    "strict": true
+    "strict": true,
+    "allowJs": true
   }
 }
