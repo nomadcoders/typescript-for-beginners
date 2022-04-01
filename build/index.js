@@ -1,2 +1,2 @@
-import { init } from "./myLib";
-init("x");
+"use strict";
+console.log("hi");
